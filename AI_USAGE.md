@@ -1,14 +1,21 @@
-# AI usage
+# AI Usage
 
-**Tools used:** Claude (claude.ai chat) to scaffold the project and draft the code and docs.
-No AI model is used at runtime: the brain is plain Python.
+## Tools I Used
 
-## How it helped
-- Drafted the NLU rules, state machine, FastAPI endpoints, React page and tests.
+I used Claude (claude.ai) during development to help me get started with the project, work through some coding tasks, and prepare the documentation.
 
-## Where it got things wrong
-- TODO: write your real notes here. Examples to check: first test run had 2 failures caused by seed
-  data that booked "Sam Demo" twice; the initial shell script created a wrongly named folder.
+## How I Used It
 
-## Token usage
-- TODO: paste your real token counts and add screenshots to `docs/usage/`. Do not estimate.
+Claude helped me with parts of the NLU logic, conversation flow, FastAPI endpoints, frontend, and tests. I used its suggestions while building the application and checked the code as I worked on the project.
+
+The application does not use an AI model when it runs. The assistant follows Python rules and a state machine to understand requests and manage appointments.
+
+## What Needed More Work
+
+Some suggestions needed to be checked and adjusted during development. I used tests to check the application and identify issues. I prefer to include specific examples here only when I can confirm what happened and how I fixed it.
+
+## Token Usage
+
+I did not keep a record of the exact token usage, so I have not added any estimated numbers. I will include usage screenshots if they are available.
+
+
